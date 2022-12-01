@@ -1,2 +1,2 @@
 # nomad-doc
-Nomad Document For Chinese Language 》
+Nomad Document For Chinese Language .
